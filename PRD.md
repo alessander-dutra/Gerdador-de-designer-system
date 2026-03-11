@@ -1,5 +1,11 @@
 # Product Requirements Document (PRD) - AI Template Generator & UI Kit Platform
-
+<p align="left">
+  <img src="https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 ## 1. Visão Geral do Produto
 A plataforma é uma aplicação web inovadora projetada para gerar, explorar e gerenciar Sistemas de Design (Design Systems) e Kits de Interface de Usuário (UI Kits). Utilizando Inteligência Artificial (Google Gemini), a ferramenta permite que desenvolvedores e designers criem templates completos a partir de descrições em texto ou imagens de referência, além de oferecer um marketplace/dashboard para explorar templates pré-existentes.
 
