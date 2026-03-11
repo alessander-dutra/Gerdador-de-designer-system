@@ -1,0 +1,7 @@
+{
+  "name": "AI Gerador de Templates Managers",
+  "description": "A professional dashboard for managing and generating design templates using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
